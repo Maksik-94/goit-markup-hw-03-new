@@ -1,17 +1,6 @@
 :root {
   --main-font: "Roboto", sans-serif;
   --secondary-font: "Ralewey", sans-serif;
-  --text-color-primary: #212121;
-  --text-color-sacondary: #2196f3;
-  --background-color-primary: #e5e5e5;
-  --background-color-header: #ffffff;
-  --text-color-white: #ffffff;
-  --text-color-grey: #757575;
-}
-
-:root {
-  --main-font: "Roboto", sans-serif;
-  --secondary-font: "Ralewey", sans-serif;
   --color-primary: #212121;
   --color-sacondary: #2196f3;
   --background-color-primary: #e5e5e5;
